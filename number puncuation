@@ -1,0 +1,16 @@
+Numbers are shown with commas (or in France, periods) to signify 1000s.
+
+A 'punctuate number' checkbox would be great.
+
+So the number:
+
+123555000
+
+could be shown as either:
+
+1255000 
+or:
+1,255,000
+
+Depending on whether the 'punctuate number' checkbox was clicked.
+
